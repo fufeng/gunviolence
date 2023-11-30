@@ -4,7 +4,7 @@ This repository contains a Mathematica notebook designed to reproduce the result
 
 ## Overview
 
-This project aims to provide an interactive and detailed exploration of the dynamical systems model described in the paper. The Mathematica notebook allows for detailed mathematical and computational analysis of the study, offering insights into the complex dynamics of gun-related violence and the impacts of various interventions.
+This project aims to provide an interactive and detailed exploration of the dynamical systems model described in the paper. The Mathematica notebook allows for detailed mathematical and computational (bifurcation) analysis of the study, offering insights into the complex dynamics of gun-related violence and the impacts of various interventions.
 
 ## Getting Started
 
@@ -30,8 +30,4 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 - Authors of the original paper: Feng Fu and Dan Rockmore
 - F.F. gratefully acknowledges support from the Bill & Melinda Gates Foundation (award no. OPP1217336), and the Neukom CompX Faculty Grant. 
 
-
-## References
-
-- Original Paper: [Link to the paper or DOI]
 
